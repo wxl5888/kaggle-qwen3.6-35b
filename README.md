@@ -1,1 +1,1 @@
-# kaggle-qwen5.6-35b
+# kaggle-qwen3.6-35b
